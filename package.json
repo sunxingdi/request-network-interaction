@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@requestnetwork/epk-signature": "^0.5.38",
+    "@requestnetwork/payment-processor": "^0.41.0",
+    "@requestnetwork/request-client.js": "^0.43.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  }
+}
